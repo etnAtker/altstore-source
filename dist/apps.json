@@ -1,0 +1,66 @@
+{
+  "name": "PiliPlus Source",
+  "identifier": "com.example.piliplus.source",
+  "subtitle": "Personal AltStore source for PiliPlus",
+  "description": "Generated from GitHub Releases.",
+  "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png",
+  "website": "https://github.com/bggRGjQaUbCoE/PiliPlus",
+  "apps": [
+    {
+      "name": "PiliPlus",
+      "bundleIdentifier": "com.example.piliplus",
+      "developerName": "bggRGjQaUbCoE",
+      "localizedDescription": "A third-party Bilibili client release mirrored from GitHub.",
+      "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png",
+      "tintColor": "#00A1D6",
+      "category": "entertainment",
+      "minimumOSVersion": "13.0",
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "versions": [
+        {
+          "version": "2.0.7",
+          "buildVersion": "4946",
+          "date": "2026-05-10T11:03:41Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.1/PiliPlus_ios_2.0.7%2B4946.ipa",
+          "size": 23949646,
+          "minimumOSVersion": "13.0"
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "4940",
+          "date": "2026-05-05T02:45:57Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7/PiliPlus_ios_2.0.7%2B4940.ipa",
+          "size": 23938472,
+          "minimumOSVersion": "13.0"
+        },
+        {
+          "version": "2.0.6",
+          "buildVersion": "4915",
+          "date": "2026-04-30T09:57:52Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.6/PiliPlus_ios_2.0.6%2B4915.ipa",
+          "size": 24972236,
+          "minimumOSVersion": "13.0"
+        },
+        {
+          "version": "2.0.5",
+          "buildVersion": "4886",
+          "date": "2026-04-25T06:40:11Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.5/PiliPlus_ios_2.0.5%2B4886.ipa",
+          "size": 24956612,
+          "minimumOSVersion": "13.0"
+        },
+        {
+          "version": "2.0.4",
+          "buildVersion": "4848",
+          "date": "2026-04-14T06:09:41Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.4/PiliPlus_ios_2.0.4%2B4848.ipa",
+          "size": 24961961,
+          "minimumOSVersion": "13.0"
+        }
+      ]
+    }
+  ]
+}

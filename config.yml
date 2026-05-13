@@ -1,0 +1,22 @@
+source:
+  name: PiliPlus Source
+  identifier: com.example.piliplus.source
+  subtitle: Personal AltStore source for PiliPlus
+  description: Generated from GitHub Releases.
+  iconURL: https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png
+  website: https://github.com/bggRGjQaUbCoE/PiliPlus
+
+apps:
+  - id: piliplus
+    repo: bggRGjQaUbCoE/PiliPlus
+    assetPattern: 'PiliPlus_ios_.*\.ipa$'
+    includePrerelease: false
+    keepVersions: 5
+    maxDownloadSize: 524288000
+    metadata:
+      name: PiliPlus
+      developerName: bggRGjQaUbCoE
+      localizedDescription: A third-party Bilibili client release mirrored from GitHub.
+      category: entertainment
+      iconURL: https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png
+      tintColor: '#00A1D6'
