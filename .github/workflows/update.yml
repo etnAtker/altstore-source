@@ -55,7 +55,7 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             args+=(--force)
           fi
-          uv run python -m altstore_source "${args[@]}"
+          uv run python scripts/update.py "${args[@]}"
 
       - name: Commit changes
         run: |

@@ -29,19 +29,13 @@ apps:
 
 ```bash
 uv sync
-uv run python -m altstore_source
+uv run python scripts/update.py
 ```
 
 只更新某个 app：
 
 ```bash
-uv run python -m altstore_source --app piliplus
-```
-
-也可以使用脚本入口：
-
-```bash
-uv run python scripts/update.py
+uv run python scripts/update.py --app piliplus
 ```
 
 生成结果会写入：
