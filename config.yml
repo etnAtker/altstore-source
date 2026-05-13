@@ -3,6 +3,7 @@ source:
   identifier: top.etnatker.source
   subtitle: etnAtker's AltStore source
   description: Generated from GitHub Releases.
+  iconURL: https://raw.githubusercontent.com/etnAtker/altstore-source/main/assets/logo.png
   website: https://github.com/etnatker/altstore-source
 
 apps:
@@ -17,5 +18,5 @@ apps:
       developerName: bggRGjQaUbCoE
       localizedDescription: A third-party Bilibili client release mirrored from GitHub.
       category: entertainment
-      iconURL: https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png
+      iconURL: https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png
       tintColor: '#00A1D6'
