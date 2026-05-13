@@ -1,17 +1,16 @@
 source:
-  name: PiliPlus Source
-  identifier: com.example.piliplus.source
-  subtitle: Personal AltStore source for PiliPlus
+  name: etnAtker's AltStore Source
+  identifier: top.etnatker.source
+  subtitle: etnAtker's AltStore source
   description: Generated from GitHub Releases.
-  iconURL: https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo.png
-  website: https://github.com/bggRGjQaUbCoE/PiliPlus
+  website: https://github.com/etnatker/altstore-source
 
 apps:
   - id: piliplus
     repo: bggRGjQaUbCoE/PiliPlus
     assetPattern: 'PiliPlus_ios_.*\.ipa$'
     includePrerelease: false
-    keepVersions: 5
+    keepVersions: 3
     maxDownloadSize: 524288000
     metadata:
       name: PiliPlus

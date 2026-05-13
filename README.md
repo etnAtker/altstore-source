@@ -2,8 +2,6 @@
 
 这个项目用于从 GitHub Releases 中匹配直接发布的 `.ipa` 资产，读取 IPA 内部 `Info.plist` 元数据，并生成 AltStore 可用的静态 source JSON。
 
-第一版只支持 GitHub release asset 中的直接 `.ipa` 文件，不支持 zip 内嵌 IPA、网页抓取、服务端 API 或实时监听。
-
 ## 配置
 
 编辑 `config.yml`：
