@@ -14,12 +14,20 @@
       "iconURL": "https://raw.githubusercontent.com/bggRGjQaUbCoE/PiliPlus/main/assets/images/logo/logo.png",
       "tintColor": "#00A1D6",
       "category": "entertainment",
-      "minimumOSVersion": "13.0",
+      "minimumOSVersion": "14.0",
       "deviceFamilies": [
         1,
         2
       ],
       "versions": [
+        {
+          "version": "2.0.7",
+          "buildVersion": "4956",
+          "date": "2026-05-15T03:21:02Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.2/PiliPlus_ios_2.0.7%2B4956.ipa",
+          "size": 23837357,
+          "minimumOSVersion": "14.0"
+        },
         {
           "version": "2.0.7",
           "buildVersion": "4946",
@@ -34,14 +42,6 @@
           "date": "2026-05-05T02:45:57Z",
           "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7/PiliPlus_ios_2.0.7%2B4940.ipa",
           "size": 23938472,
-          "minimumOSVersion": "13.0"
-        },
-        {
-          "version": "2.0.6",
-          "buildVersion": "4915",
-          "date": "2026-04-30T09:57:52Z",
-          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.6/PiliPlus_ios_2.0.6%2B4915.ipa",
-          "size": 24972236,
           "minimumOSVersion": "13.0"
         }
       ]
