@@ -22,6 +22,14 @@
       "versions": [
         {
           "version": "2.0.8",
+          "buildVersion": "5024",
+          "date": "2026-06-06T04:20:39Z",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8.1/PiliPlus_ios_2.0.8%2B5024.ipa",
+          "size": 23460325,
+          "minimumOSVersion": "14.0"
+        },
+        {
+          "version": "2.0.8",
           "buildVersion": "5014",
           "date": "2026-06-04T06:24:24Z",
           "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8/PiliPlus_ios_2.0.8%2B5014.ipa",
@@ -35,14 +43,6 @@
           "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.2/PiliPlus_ios_2.0.7%2B4956.ipa",
           "size": 23837357,
           "minimumOSVersion": "14.0"
-        },
-        {
-          "version": "2.0.7",
-          "buildVersion": "4946",
-          "date": "2026-05-10T11:03:41Z",
-          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.1/PiliPlus_ios_2.0.7%2B4946.ipa",
-          "size": 23949646,
-          "minimumOSVersion": "13.0"
         }
       ]
     }
